@@ -2,9 +2,6 @@
 
 API para cadastro de usuários, items e listas de compras.
 
-## Documentação Postman
-- https://postman.com
-
 ## Tecnologias
 
 - ASP.NET Core 3.1
@@ -13,6 +10,7 @@ API para cadastro de usuários, items e listas de compras.
 - MSTest
 - JWT
 - Docker
+- Swagger
 
 ## Arquitetura
 
